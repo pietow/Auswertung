@@ -1,0 +1,61 @@
+Gruppe,Spalte,p-Wert
+Anfang A,Fachbegriffe,0.8659700722394221
+Anfang A,falsch verwendete Fachbegriffe,0.8659700722394221
+Anfang A,Körperteile,0.9327915376676987
+Anfang A,falsch verwendete Körperteile,0.8659700722394221
+Anfang A,Verben,0.3948658410732715
+Anfang A,falsch verwendete Verben,1.0
+Anfang A,Adjektive,0.9327915376676987
+Anfang A,falsch verwendete Adjektive,1.0
+Anfang A,Präposition,0.01934984520123839
+Anfang A,falsch verwendete Präposition,0.4972910216718267
+Anfang A,Anzahl der Wörter,0.7354231166150671
+Anfang A,Anzahl Sätze,0.05263157894736842
+Anfang A,Vollständige Sätze,0.23000515995872037
+Anfang A,Text sachlich,1.0
+Anfang A,Text vollständig,0.9327915376676987
+Ende A,Fachbegriffe,0.7354231166150671
+Ende A,falsch verwendete Fachbegriffe,0.8659700722394221
+Ende A,Körperteile,0.8000515995872033
+Ende A,falsch verwendete Körperteile,0.7354231166150671
+Ende A,Verben,0.5531475748194015
+Ende A,falsch verwendete Verben,0.8659700722394221
+Ende A,Adjektive,0.16795665634674925
+Ende A,falsch verwendete Adjektive,1.0
+Ende A,Präposition,0.6724716202270382
+Ende A,falsch verwendete Präposition,0.7354231166150671
+Ende A,Anzahl der Wörter,0.5531475748194015
+Ende A,Anzahl Sätze,0.26612487100103205
+Ende A,Vollständige Sätze,0.8659700722394221
+Ende A,Text sachlich,0.8659700722394221
+Ende A,Text vollständig,0.4972910216718267
+Anfang B,Fachbegriffe,0.8659700722394221
+Anfang B,falsch verwendete Fachbegriffe,0.7354231166150671
+Anfang B,Körperteile,0.7354231166150671
+Anfang B,falsch verwendete Körperteile,1.0
+Anfang B,Verben,0.6724716202270382
+Anfang B,falsch verwendete Verben,0.6724716202270382
+Anfang B,Adjektive,1.0
+Anfang B,falsch verwendete Adjektive,0.8659700722394221
+Anfang B,Präposition,0.7354231166150671
+Anfang B,falsch verwendete Präposition,0.9327915376676987
+Anfang B,Anzahl der Wörter,0.8659700722394221
+Anfang B,Anzahl Sätze,0.8000515995872033
+Anfang B,Vollständige Sätze,0.9327915376676987
+Anfang B,Text sachlich,0.7354231166150671
+Anfang B,Text vollständig,0.1973684210526316
+Ende B,Fachbegriffe,0.5531475748194015
+Ende B,falsch verwendete Fachbegriffe,0.7354231166150671
+Ende B,Körperteile,0.9327915376676987
+Ende B,falsch verwendete Körperteile,0.6724716202270382
+Ende B,Verben,0.8659700722394221
+Ende B,falsch verwendete Verben,0.1417698658410733
+Ende B,Adjektive,0.06553147574819401
+Ende B,falsch verwendete Adjektive,0.5531475748194015
+Ende B,Präposition,0.7354231166150671
+Ende B,falsch verwendete Präposition,0.1417698658410733
+Ende B,Anzahl der Wörter,0.3055985552115584
+Ende B,Anzahl Sätze,0.8659700722394221
+Ende B,Vollständige Sätze,0.7354231166150671
+Ende B,Text sachlich,0.5531475748194015
+Ende B,Text vollständig,0.3485552115583076
